@@ -1,2 +1,3 @@
 NO.REG : 1820010101
 Nama : Joel Rizky Wahidiyat
+Jurusan : Software Engineering
